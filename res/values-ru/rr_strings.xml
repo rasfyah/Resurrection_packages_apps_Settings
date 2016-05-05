@@ -1930,6 +1930,13 @@
   	
   	<string name="pulse_custom_div">Интервал</string>
   	<string name="default_div">По умолчанию</string>
+  	<string name="pulse_custom_dimen_cat">Настроить размеры  блоков спектра. Также настроить расстояние между ними</string>
+  	<string name="pulse_block_category">Блоки панели Пульс</string>
+  	<string name="pulse_custom_dimen_category">Расстояние</string>
+  	<string name="pulse_block_category_title">Размер</string>
+  	<string name="pulse_block_category_summary">Настроить размеры блоков спектра и расстояние до каждого блока</string>
+  	<string name="pulse_aggression">Сила</string>
+  	<string name="pulse_aggression_category">Настроить силу спектра.</string>
   	<string name="div1">18</string>
   	<string name="div2">20</string>
   	<string name="div3">22</string>
